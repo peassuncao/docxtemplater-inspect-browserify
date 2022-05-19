@@ -1,5 +1,5 @@
 {
-  "name": "docxtemplater",
+  "name": "docxtemplater-inspect-browserify",
   "version": "3.29.4",
   "author": "Edgar Hipp",
   "description": "docx and pptx generator working with templates and data (like Mustache, for Word and Powerpoint documents)",
@@ -8,7 +8,7 @@
       "name": "Edgar Hipp"
     }
   ],
-  "main": "js/docxtemplater.js",
+  "main": "build/inspect-module.js",
   "keywords": [
     "docx",
     "pptx",
